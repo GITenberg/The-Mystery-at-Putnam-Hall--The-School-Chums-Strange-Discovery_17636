@@ -1,0 +1,33 @@
+_repo: The-Mystery-at-Putnam-Hall--The-School-Chums-Strange-Discovery_17636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2006-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Mystery at Putnam Hall: The School Chums'' Strange Discovery'
+url: http://www.gutenberg.org/ebooks/17636
